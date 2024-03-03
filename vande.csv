@@ -1,0 +1,34 @@
+Sr. No.,TrainName,TrainNumber,Originating City,Originating Station,TerminalCity,TerminalStation,Operator,No. of Cars,Frequency,Distance,TravelTime,Speed,AverageSpeed,Inauguration,Averageoccupancy
+1,New Delhi - Varanasi Vande Bharat Express,22435/22436,Delhi,New Delhi,Varanasi,Varanasi Junction,NR,16,Except Thursdays,759 km (472 mi),08h 00m,130 km/h (81 mph),95 km/h (59 mph),2/15/2019,1.26
+2,New Delhi - Shri Mata Vaishno Devi Katra Vande Bharat Express,22439/22440,Delhi,New Delhi,Katra,Shri Mata Vaishno Devi Katra,NR,16,Except Tuesdays,655 km (407 mi),08h 00m,130 km/h (81 mph),82 km/h (51 mph),10-03-2019,1.14
+3,Mumbai Central - Gandhinagar Capital Vande Bharat Express,20901/20902,Mumbai,Mumbai Central,Gandhinagar,Gandhinagar Capital,WR,16,Except Wednesdays,522 km (324 mi),06h 25m,130 km/h (81 mph),82 km/h (51 mph),9/30/2022,1.32
+4,New Delhi - Amb Andaura Vande Bharat Express,22447/22448,Delhi,New Delhi,Andaura,Amb Andaura,NR,16,Except Fridays,412 km (256 mi),05h 10m,130 km/h (81 mph),79 km/h (49 mph),10/13/2022,0.7
+5,MGR Chennai Central - Mysuru Vande Bharat Express,20607/20608,Chennai,Chennai Central,Mysuru,Mysore Junction,SR,16,Except Wednesdays,496 km (308 mi),06h 30m,130 km/h (81 mph),79 km/h (49 mph),11-11-2022,0.75
+6,Bilaspur - Nagpur Vande Bharat Express,20825/20826,"Bilaspur, Chhattisgarh",Bilaspur Junction,Nagpur,Nagpur Junction,SECR,8,Except Saturdays,412 km (256 mi),05h 30m,130 km/h (81 mph),75 km/h (47 mph),12-11-2022,0.96
+7,Howrah - New Jalpaiguri Vande Bharat Express,22301/22302,Kolkata,Howrah Junction,Siliguri,New Jalpaiguri Junction,ER,16,Except Wednesdays,565 km (351 mi),07h 30m,130 km/h (81 mph),75 km/h (47 mph),12/30/2022,1
+8,Visakhapatnam - Secunderabad Vande Bharat Express,20833/20834,Visakhapatnam,Visakhapatnam Junction,Hyderabad,Secunderabad Junction,ECoR,16,Except Sundays,698 km (434 mi),08h 30m,130 km/h (81 mph),82 km/h (51 mph),1/15/2023,1.2
+9,Mumbai CSMT - Solapur Vande Bharat Express,22225/22226,Mumbai,Chhatrapati Shivaji Terminus,Solapur,Solapur,CR,16,"Except Wednesdays (22225) , Except Thursdays (22226)",452 km (281 mi),06h 30m,110 km/h (68 mph),70 km/h (43 mph),02-10-2023,1
+10,Mumbai CSMT - Sainagar Shirdi Vande Bharat Express,22223/22224,Mumbai,Chhatrapati Shivaji Terminus,Shirdi,Sainagar Shirdi,CR,16,Except Tuesdays,339 km (211 mi),05h 20m,110 km/h (68 mph),64 km/h (40 mph),02-10-2023,0.93
+11,Rani Kamalapati (Habibganj) - Hazrat Nizamuddin Vande Bharat Express,20171/20172,Bhopal,Habibganj (Rani Kamalapati),Delhi,Hazrat Nizamuddin,WCR,16,Except Saturdays,702 km (436 mi),07h 30m,160 km/h (99 mph),94 km/h (58 mph),04-01-2023,0.9
+12,Secunderabad - Tirupati Vande Bharat Express,20701/20702,Hyderabad,Secunderabad Junction,Tirupati,Tirupati,SCR,16,Except Tuesdays,661 km (411 mi),08h 15m,130 km/h (81 mph),80 km/h (50 mph),04-08-2023,1.1
+13,MGR Chennai Central - Coimbatore Vande Bharat Express,20643/20644,Chennai,Chennai Central,Coimbatore,Coimbatore Junction,SR,8,Except Wednesdays,495 km (308 mi),05h 50m,130 km/h (81 mph),85 km/h (53 mph),04-08-2023,1.5
+14,Delhi Cantonment - Ajmer Vande Bharat Express,20977/20978,Delhi,Delhi Cantonment,Ajmer,Ajmer Junction,NWR,16,Except Wednesdays,428 km (266 mi),05h 15m,110 km/h (68 mph),82 km/h (51 mph),04-12-2023,0.7
+15,Kasaragod - Thiruvananthapuram Vande Bharat Express,20633/20634,Kasaragod,Kasaragod,Thiruvananthapuram,Thiruvananthapuram Central,SR,16,Except Thursdays,587 km (365 mi),08h 05m,110 km/h (68 mph),73 km/h (45 mph),4/25/2023,1.77
+16,Howrah - Puri Vande Bharat Express,22895/22896,Kolkata,Howrah Junction,Puri,Puri,SER,16,Except Thursdays,500 km (310 mi),06h 25m,130 km/h (81 mph),78 km/h (48 mph),5/18/2023,0.99
+17,Anand Vihar Terminal - Dehradun Vande Bharat Express,22457/22458,Delhi,Anand Vihar Terminal,Dehradun,Dehradun Terminal,NR,8,Except Wednesdays,304 km (189 mi),04h 45m,130 km/h (81 mph),64 km/h (40 mph),5/25/2023,1
+18,New Jalpaiguri - Guwahati Vande Bharat Express,22227/22228,Siliguri,New Jalpaiguri Junction,Guwahati,Guwahati,NFR,8,Except Tuesdays,407 km (253 mi),05h 30m,110 km/h (68 mph),74 km/h (46 mph),5/29/2023,0.91
+19,Mumbai CSMT - Madgaon Vande Bharat Express,22229/22230,Mumbai,Chhatrapati Shivaji Terminus,Madgaon,Madgaon Junction,CR,16,"Except Fridays
+(Non-Monsoon)",586 km (364 mi),"07h 45m
+(Non-Monsoon)",120 km/h (75 mph),"75 km/h (47 mph)
+(Non-Monsoon)",6/27/2023,0.94
+19,Mumbai CSMT - Madgaon Vande Bharat Express,22229/22230,Mumbai,Chhatrapati Shivaji Terminus,Madgaon,Madgaon Junction,CR,16,"Monday, Wednesday, Friday (22229)
+Tuesday, Thursday, Saturday (22230)
+(Monsoon)",586 km (364 mi),"10h 05m
+(Monsoon)",120 km/h (75 mph),"57 km/h (35 mph)
+(Monsoon)",6/27/2023,0.94
+20,Patna - Ranchi Vande Bharat Express,22349/22350,Patna,Patna Junction,Ranchi,Ranchi Junction,ECR,8,Except Tuesdays,379 km (235 mi),06h 00m,130 km/h (81 mph),63 km/h (39 mph),6/27/2023,1.18
+21,KSR Bengaluru - Dharwad Vande Bharat Express,20661/20662,Bangalore,Bangalore City,Hubbali - Dharwad,Dharwad,SWR,8,Except Tuesdays,490 km (300 mi),06h 25m,130 km/h (81 mph),76 km/h (47 mph),6/27/2023,0.72
+22,Rani Kamalapati (Habibganj) - Jabalpur Vande Bharat Express,20173/20174,Bhopal,Habibganj (Rani Kamalapati),Jabalpur,Jabalpur Junction,WCR,8,Except Tuesdays,337 km (209 mi),04h 40m,110 km/h (68 mph),73 km/h (45 mph),6/27/2023,0.44
+23,Indore - Bhopal Vande Bharat Express,20911/20912,Indore,Indore Junction,Bhopal,Bhopal Junction,WR,8,Except Sundays,250 km (160 mi),03h 05m,110 km/h (68 mph),82 km/h (51 mph),6/27/2023,0.37
+24,Jodhpur - Sabarmati (Ahmedabad) Vande Bharat Express,12461/12462,Jodhpur,Jodhpur Junction,Ahmedabad,Sabarmati Junction,NWR,8,Except Tuesdays,449 km (279 mi),06h 10m,130 km/h (81 mph),73 km/h (45 mph),07-07-2023,0.53
+25,Gorakhpur - Lucknow Charbagh Vande Bharat Express,22549/22550,Gorakhpur,Gorakhpur Junction,Charbagh,Lucknow Charbagh,NER,8,Except Saturdays,296 km (184 mi),04h 15m,110 km/h (68 mph),71 km/h (44 mph),07-07-2023,0.77
